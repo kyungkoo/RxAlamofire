@@ -4,8 +4,8 @@ use_frameworks!
 
 def common
     pod 'Alamofire', '~> 3.4'
-    pod 'RxSwift', '~> 2.4'
-    pod 'RxCocoa', '~> 2.4'
+    pod 'RxSwift', '~> 2.5.0'
+    pod 'RxCocoa', '~> 2.5.0'
 end
 
 target 'RxAlamofireExample' do
